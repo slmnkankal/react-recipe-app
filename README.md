@@ -1,11 +1,11 @@
-# Netlify 
+## Netlify 
 When using netlify demo, after entering any username and any password (aa 11 .ie) click Back to our site and start using app!
 
-# Gif of the Project
+## Gif of the Project
 
 https://github.com/slmnkankal/react-recipe-app/blob/main/recipeapp.gif
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
